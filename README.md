@@ -1,9 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <h1>👋 Hi there, I'm Moses Karisa!</h1>
-  </div>
-  <img src="URL-to-Banner-Image" alt="Banner Image" style="margin-left: 20px; height: 150px;">
-</div>
+<h1>👋 Hi there, I'm Moses Karisa!</h1>
 
 🚀 Aspiring Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Science Student at the University of Nairobi
 
