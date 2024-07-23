@@ -4,6 +4,9 @@
 
 ---
 
+![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesmkrs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmkrs&layout=compact&theme=radical)
+
 ## About Me
 
 I'm a highly motivated and enthusiastic full-stack developer with a keen interest in web and blockchain technologies. Currently pursuing a Bachelor's degree in Computer Science at the University of Nairobi, I've completed several projects and internships that have honed my technical skills and problem-solving abilities.
@@ -94,8 +97,6 @@ I'm a highly motivated and enthusiastic full-stack developer with a keen interes
 - Committed to using technology to solve real-world problems and create positive social impact.
 - Passionate about continuous learning, staying current with industry trends, and expanding my skill set.
 
-![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesmkrs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmkrs&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
