@@ -1,28 +1,87 @@
-# 👋 Hello, I'm Moses Karisa!
+# 👋 Hi there, I'm Moses Karisa!
 
+🚀 Aspiring Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Science Student at the University of Nairobi
+
+---
 ![Banner Image](URL-to-Banner-Image)
 
-## 🚀 About Me
-I'm a passionate Computer Science student at the University of Oxford, specializing in blockchain technology and full-stack web development. My journey in tech has taken me from a novice to a skilled developer, capable of tackling complex projects with resilience and creativity.
+## About Me
 
-## 💼 Work Experience
+I'm a highly motivated and enthusiastic full-stack developer with a keen interest in web and blockchain technologies. Currently pursuing a Bachelor's degree in Computer Science at the University of Nairobi, I've completed several projects and internships that have honed my technical skills and problem-solving abilities.
 
-### 🔗 [Birble AI Company](https://birbleai.com)
-**Role:** Junior Full-Stack Web Developer  
-**Duration:** Sep 01, 2023 - Apr 07, 2024
+## 🌟 Skills and Technologies
 
+- **Frontend Development**: HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend Development**: Node.js, Express, MySQL, MongoDB, Firebase
+- **Blockchain**: Solidity, Hardhat, Web3.js
+- **Version Control**: Git, GitHub
+- **Tools**: Postman, Visual Studio Code, MySQL Studio, XAMPP, Figma
 
-- Cloned OpenZeppelin contracts and added custom functionalities, ensuring robust and secure smart contracts.
-- Collaborated with a diverse team, handled sensitive information under an NDA, and contributed to innovative blockchain solutions.
-- Learned critical thinking, self-discipline, and teamwork through complex projects and sprint assessments.
+## 📚 Education
 
+- **University of Nairobi** (Sep 2023 - Current)
+  - Bachelor of Science in Computer Science
+- **DirectEd Full-Stack Bootcamp** (May 2023 - Aug 2023)
+  - Full scholarship, Top 10% performance, Earned Full Stack Developer certificate with merit
 
-## 🔧 Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Node.js, Express, MySQL, MongoDB
-- **Blockchain:** Solidity, Smart Contracts, dApps
+## 🏆 Projects and Work Experience
 
-## 🌟 Achievements
+### Birble AI (Sep 2023 - Apr 2024)
+**Frontend Software Developer (Part-time) and Web3 Scholar**
+
+- **Web3 Decentralized Lottery App**
+  - Developed a decentralized lottery application controlled by a Solidity contract.
+  - Gained experience with Hardhat Framework and Linux command line.
+  - [DEMO](https://frontend-lottery-app.vercel.app/)
+
+- **Web3 FundMe App**
+  - Built a FundMe application with Solidity contract backend.
+  - [DEMO](https://frontend-fund-me.vercel.app/)
+
+- **BirbleAI Contracts**
+  - Cloned and enhanced OpenZeppelin contracts with additional styles and functionality.
+  - [DEMO](https://board-wine-kappa.vercel.app/wizard)
+
+### Tala Thrive (Jun 2024 - Current)
+**Frontend Software Developer**
+
+- Collaborated on the development of the Tala Thrive app.
+- [DEMO](https://tala-thrive.fly.dev/login)
+
+### University of Nairobi (Sep 2023 - Current)
+**Student Projects**
+
+- **Farmstead Fellowship Database with MySQL**
+  - Created and managed a SQL database, linked it to a website using Node.js and Next.js.
+  - [DEMO](https://sql-project-frontend.vercel.app/)
+
+- **Farmstead Fellowship Database with Microsoft Access**
+  - Designed and implemented a comprehensive database system in Access.
+
+### B.JA. Power Solution Limited Company (Aug 2023 - Sep 2023)
+**Software Developer**
+
+- Developed the official company website with React, implementing features like email communication using Email.js.
+- [DEMO](https://www.bjapowerlimited.com/)
+
+### DirectEd Full-Stack Bootcamp (May 2023 - Aug 2023)
+**Scholar**
+
+- **AWWonders App**
+  - Created a full-stack application with React, Node.js, Express, and MongoDB.
+  - [DEMO](https://aw-wonders-frontend.vercel.app/register)
+
+## 🔧 Additional Projects
+
+- **CRUD operations with Firebase**: [DEMO](https://firebase-crud-two.vercel.app/)
+- **CRUD operations with MongoDB**: [DEMO](https://mongo-crud-chi.vercel.app/)
+- **File Uploader with AWS**: [DEMO](https://aws-server-actions.vercel.app/)
+- **Authentication with Next.js**: [DEMO](https://next-js-authentication-five.vercel.app/)
+- **Personal ToDo App**: [DEMO](https://to-do-app-roan-nu.vercel.app/)
+- **MKRS Movies App**: [DEMO](https://movie-app-chi-red.vercel.app/)
+- **Birble NFT Marketplace**: [DEMO](https://newnft-blue.vercel.app/home)
+
+  ## 🌟 Achievements
 - Successfully balanced academic responsibilities with tech projects, improving grades while developing innovative solutions.
 - Leveraged the collaborative potential of online developer communities to overcome technical challenges.
 - Developed a personalized study app to enhance organizational skills and track academic progress.
@@ -32,33 +91,19 @@ I'm a passionate Computer Science student at the University of Oxford, specializ
 - **Strong Communicator:** Effectively conveyed complex technical concepts to diverse audiences.
 - **Tenacious and Resolute:** Overcame academic setbacks through innovative problem-solving and persistence.
 
-## 🎓 Education
-**DirecteEd Development Foundation**  
-
-
-## 📫 Contact Me
-- **Email:** [karisamoses392@gmail.com](mailto:karisamoses392@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-
-## 🌐 Projects Showcase
-### [BirbleAI Contracts Project](https://github.com/your-github/birbleai-contracts)
-- Cloned OpenZeppelin contracts with added styles and functionalities.
-- Demonstrated the ability to enhance and customize existing blockchain solutions.
-
-### [Decentralized Lottery App](https://github.com/your-github/decentralized-lottery)
-- Developed a decentralized lottery application to ensure fair and transparent systems.
-- Showcased skills in blockchain technology and smart contract development.
-
 ## 🌟 Interests and Passion
 - Committed to using technology to solve real-world problems and create positive social impact.
 - Passionate about continuous learning, staying current with industry trends, and expanding my skill set.
 
-![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
+![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesmkrs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmkrs&layout=compact&theme=radical)
 
-## ✨ Let's Connect!
-Feel free to reach out to me for collaborations, project discussions, or just a friendly chat about technology and innovation.
+## 🤝 Let's Connect!
+
+- **LinkedIn**: [Moses Karisa](https://www.linkedin.com/in/moses-karisa-11526127a/)
+- **GitHub**: [mosesmkrs](https://github.com/mosesmkrs)
+- **Portfolio**: [Moses Karisa Projects](https://portfolio-mosesmkrs-projects.vercel.app/)
 
 ---
 
-_“Innovation is the ability to see change as an opportunity – not a threat.” – Steve Jobs_
+I'm always eager to learn and take on new challenges. Feel free to reach out for collaborations or just a friendly chat about technology and innovation!
