@@ -1,9 +1,14 @@
-# 👋 Hi there, I'm Moses Karisa!
+<div style="display: flex; align-items: center;">
+  <div>
+    <h1>👋 Hi there, I'm Moses Karisa!</h1>
+    <p>🚀 Aspiring Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Science Student at the University of Nairobi</p>
+  </div>
+  <img src="URL-to-Banner-Image" alt="Banner Image" style="margin-left: 20px; height: 150px;">
+</div>
 
 🚀 Aspiring Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Science Student at the University of Nairobi
 
 ---
-![Banner Image](URL-to-Banner-Image)
 
 ## About Me
 
