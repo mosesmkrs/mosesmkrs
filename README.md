@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I'm Moses Karisa!</h1>
 
-🚀 Aspiring Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Scientist
+🚀 Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Scientist
 
 ---
 
