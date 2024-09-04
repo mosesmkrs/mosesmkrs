@@ -20,7 +20,7 @@ I'm a highly motivated and enthusiastic full-stack developer with a keen interes
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mosesmkrs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
