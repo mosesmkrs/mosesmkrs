@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | 🌐 Web & Blockchain Enthusiast | 🎓 Computer Scientist
 
 # 💫 About Me:
-I'm a highly motivated and enthusiastic full-stack developer with a keen interest in web and blockchain technologies. Currently pursuing a Bachelor's degree in Computer Science at the University of Nairobi, I've completed several projects and internships that have honed my technical skills and problem-solving abilities.
+I’m a passionate and driven full-stack developer with a strong focus on web and blockchain technologies. Through various projects and internships, I’ve sharpened my technical expertise and problem-solving skills, continuously seeking innovative solutions to complex challenges. My diverse experience in both front-end and back-end development, combined with my growing knowledge of decentralized technologies, allows me to create robust, scalable applications that push the boundaries of modern tech. Eager to contribute to forward-thinking teams, I thrive in dynamic environments where I can make an immediate impact.
 
 ## 🌐 Socials:
 - *LinkedIn*: [Moses Karisa](https://www.linkedin.com/in/moses-karisa-11526127a/)
