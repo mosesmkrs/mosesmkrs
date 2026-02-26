@@ -27,18 +27,21 @@ I’m a passionate and driven full-stack developer with a strong focus on web an
 ![](https://github-contributor-stats.vercel.app/api?username=mosesmkrs&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌟 Achievements
-- Successfully balanced academic responsibilities with tech projects, improving grades while developing innovative solutions.
-- Leveraged the collaborative potential of online developer communities to overcome technical challenges.
-- Developed a personalized study app to enhance organizational skills and track academic progress.
+- **Built Helani:** Launched a comprehensive financial management platform (www.helani.io) with 7-language support, native M-Pesa integration, and specialized dashboards, now adopted by 20+ Nairobi businesses
+- **Full-Stack Development:** Architected and deployed complete FinTech solution using Next.js, React, TypeScript, and PostgreSQL with enterprise-grade security
+- **Market Impact:** Successfully addressed financial inclusion challenges in African markets through localized technology solutions
 
 ## 💡 Core Competencies
-- **Trusted Collaborator:** Worked on high-stakes projects with major companies, handling confidential information with integrity.
-- **Strong Communicator:** Effectively conveyed complex technical concepts to diverse audiences.
-- **Tenacious and Resolute:** Overcame academic setbacks through innovative problem-solving and persistence.
+- **Technical Leadership:** Led end-to-end development of complex financial systems, from database design to deployment
+- **Problem-Solving:** Debugged and resolved critical issues in multi-source financial calculations and data integrity
+- **Security Implementation:** Built robust authentication, authorization, and data protection systems for sensitive financial information
+- **Cross-Platform Development:** Created responsive, accessible applications supporting multiple languages and device types
 
 ## 🌟 Interests and Passion
-- Committed to using technology to solve real-world problems and create positive social impact.
-- Passionate about continuous learning, staying current with industry trends, and expanding my skill set.
+- **Financial Inclusion:** Committed to building technology that serves underserved markets and bridges the digital divide
+- **Scalable Architecture:** Passionate about designing systems that can grow with user needs and handle complex business requirements
+- **Continuous Innovation:** Focused on learning emerging technologies and applying them to solve real-world financial challenges
+- **Social Impact:** Dedicated to creating tools that empower local businesses and communities through accessible technology
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mosesmkrs&icon=0&color=0)](https://visitcount.itsvg.in)
